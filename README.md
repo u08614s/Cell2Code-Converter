@@ -1,2 +1,2 @@
 # Cell2Code-Converter
-Convert the Cell that can be obtained with jgeckou's disassembler to code
+JGecko UのMemoryViewerでCopyCellした時のCellをカーネルコード化できます
